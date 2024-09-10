@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "dev": "http-server -p 8181 --cors * ./docs/"
+    "dev": "http-server -p 8181 --cors *"
   },
   "author": "",
   "license": "ISC",

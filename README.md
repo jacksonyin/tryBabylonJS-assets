@@ -1,5 +1,8 @@
 # Babylon.js Asset Host Template
 
+## visit assets by github
+https://raw.githubusercontent.com/jacksonyin/tryBabylonJS-assets/main/3dModels/car-test.glb
+
 ## Quick Start Guide
 
 1. Use GitHub to create `your-asset-repo` from this template
